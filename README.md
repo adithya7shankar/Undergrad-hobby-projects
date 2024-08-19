@@ -104,5 +104,5 @@ The ARIMA model generates forecasts that are compared with actual temperature va
 - Open the Temperature_Forecast_ARIMA.ipynb notebook in Jupyter or Google Colab.
 - Run the cells sequentially to execute the entire workflow.
 
-###Conclusion
+### Conclusion
 This project serves as an introduction to time series forecasting using the ARIMA model, specifically applied to temperature data. It can be expanded by experimenting with different model parameters, applying the model to different datasets, or incorporating additional time series models.
