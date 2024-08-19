@@ -4,7 +4,7 @@
 ### Overview
 This project demonstrates the use of the ARIMA (AutoRegressive Integrated Moving Average) model to forecast stock prices. The notebook walks through the entire process, from data loading and preprocessing to model training and evaluation.
 
-###Requirements
+### Requirements
 To run this notebook, you will need the following Python packages:
 
 - pandas
