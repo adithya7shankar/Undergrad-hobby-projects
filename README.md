@@ -1,6 +1,6 @@
 # Undergrad-hobby-projects
 
-## ARIMA Model for Stock Price Forecasting
+## 1. ARIMA Model for Stock Price Forecasting
 ### Overview
 This project demonstrates the use of the ARIMA (AutoRegressive Integrated Moving Average) model to forecast stock prices. The notebook walks through the entire process, from data loading and preprocessing to model training and evaluation.
 
@@ -54,7 +54,7 @@ This project serves as a basic introduction to time series forecasting using the
 
 
 
-## Temperature Forecasting with ARIMA Model
+## 2. Temperature Forecasting with ARIMA Model
 ### Overview
 This project demonstrates the use of the ARIMA (AutoRegressive Integrated Moving Average) model to forecast daily average temperatures. The notebook provides a step-by-step guide, from loading the data to evaluating the model's performance.
 
